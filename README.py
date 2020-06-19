@@ -1,6 +1,7 @@
-# Python-Interactive_Dictionary
+# Python-Interactive_Dictionary-1
 # Enter any word and this application will return the definiton. 
 # It also accounts for mispelled words and will suggest a similar word
+
 
 import json
 import difflib
